@@ -1,0 +1,12 @@
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\EmailWebServiceUnitTest.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\EmailWebServiceUnitTest.pdb
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\WCFServiceWebRole1.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\WindowsAzureTelemetryEvents.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\WindowsAzureEventSource.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\WCFServiceWebRole1.pdb
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\obj\Debug\EmailWebServiceUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\obj\Debug\EmailWebServiceUnitTest.dll
+C:\Users\Kristinn\Documents\Visual Studio 2015\Projects\FinalRelated\EmailWebService\EmailWebServiceUnitTest\obj\Debug\EmailWebServiceUnitTest.pdb
