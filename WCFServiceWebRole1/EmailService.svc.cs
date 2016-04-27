@@ -18,8 +18,8 @@ namespace WCFServiceWebRole1
     {
         private const string SmtpClient = "smtp.gmail.com";
         private const int smtpPort = 587;
-        private const string EmailFrom = "email.service.project@gmail.com";
-        private const string emailPw = "Email321";
+        private const string EmailFrom = "**********";
+        private const string emailPw = "*********";
 
         private void SendEmail(MailMessage mailToSend)
         {
